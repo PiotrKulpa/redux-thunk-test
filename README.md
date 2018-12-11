@@ -1,4 +1,32 @@
+# Project Title
+
+Redux-thunk test application
+
+## Getting Started
+
+Clone this repository, install dependiences  and run npm start to develope.
+
+## Deployment
+
+npm run build
+
+## Built With
+
+* React- The web framework used
+* Redux
+* React-redux
+* Redux-thunk
+* Lodash
+
+## Authors
+
+* **Piotr Kulpa**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
